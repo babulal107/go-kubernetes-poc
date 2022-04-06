@@ -1,0 +1,6 @@
+[APP]
+    NAME = "go-kubernets-poc"
+    PORT = "8080"
+    TRACING = "true"
+    VERSION = "0.0.1"
+    LOGLEVEL = "debug" #Available loglevel is "debug", "info", "warn", "error", "fatal", "panic", and ""
